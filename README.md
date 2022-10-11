@@ -82,7 +82,7 @@ Here are some of the things we found difficult:
 Note: This setup tutorial assumes that you already have installed a package manager like npm and the version control system git.
 **From Terminal:**
 
-``` git clone git@github.com:knowles28/group_project_education_app ``` 
+``` git clone git@github.com:Andrew1495/educationapp.git``` 
 
 Once the download has ended, move into the directory named 'client' by running the following command:
 
